@@ -1,0 +1,14 @@
+# 中文分词
+jieba
+
+# BM25 关键词检索
+rank_bm25
+
+# 网络请求
+requests
+
+# 读取 .env 环境变量（读取你的 API Key）
+python-dotenv
+
+# 向量数据库客户端
+qdrant-client

@@ -1,0 +1,22 @@
+# API 密钥和数据库密码
+.env
+
+# Python 虚拟环境
+venv/
+.env
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints
+
+# 操作系统自动生成的文件
+.DS_Store
+Thumbs.db
